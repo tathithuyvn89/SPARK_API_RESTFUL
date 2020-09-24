@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UserControllerIntegrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-24T15:39:44" hostname="LAPTOP-7LPA0NK8" time="0.089">
+  <properties/>
+  <testcase name="aNewUserShouldBeCreated" classname="UserControllerIntegrationTest" time="0.089"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Thread-4] INFO org.eclipse.jetty.util.log - Logging initialized @726ms
+[Test worker] INFO spark.webserver.JettySparkServer - >>> Spark shutting down ...
+[Test worker] INFO spark.webserver.JettySparkServer - done
+]]></system-err>
+</testsuite>
